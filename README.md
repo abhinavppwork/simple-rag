@@ -30,7 +30,7 @@ The system consists of four main components:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/rag-document-assistant.git
+git clone https://github.com/abhinavppwrk/simple-rag.git
 cd rag-document-assistant
 ```
 
